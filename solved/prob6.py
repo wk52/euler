@@ -1,4 +1,6 @@
-"""Project Euler - Problem 6."""
+"""Project Euler - Problem 6.
+
+https://projecteuler.net/problem=6"""
 
 sum_of_squares = 0
 for i in range(1, 101):
